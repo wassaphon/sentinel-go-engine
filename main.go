@@ -30,7 +30,7 @@ func main() {
 	// รายชื่อเว็บไซต์หรือระบบในเครือข่าย สพป. ที่คุณต้องการเฝ้าระวัง
 	// คุณสามารถเพิ่ม url ของเว็บ pr.utt1.go.th หรือเว็บอื่นเข้าไปได้เลย
 	targets := []string{
-		"https://www.google.com",
+		"https://www.site2.utt1.go.th",
 		"https://www.github.com",
 		"https://wordpress.org",
 	}
